@@ -37,15 +37,31 @@ Turning data into meaningful insights 📊
 
 ---
 
-## 🚀 Featured Projects
+## 👩‍💻 Creation
 
 ### 🏠 House Price Prediction
+
+🔗 Repository:
+[House Price Prediction](https://github.com/Swatii012/House_Price_Prediction)
+
 Machine Learning based system that predicts house prices using historical housing data.
 
+---
+
 ### 🎬 Movie Recommendation System
+
+🔗 Repository:
+[Movie Recommendation System](https://github.com/Swatii012/movie_recommendation_system)
+
 A recommendation engine that suggests movies based on user preferences.
 
+---
+
 ### 🧩 Sudoku Hashing
+
+🔗 Repository:
+[Sudoku Hashing](https://github.com/Swatii012/Sudoku-Hashing)
+
 Python project using hashing concepts to solve Sudoku efficiently.
 
 ---
