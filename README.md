@@ -48,15 +48,6 @@ Machine Learning based system that predicts house prices using historical housin
 
 ---
 
-### 🎬 Movie Recommendation System
-
-🔗 Repository:
-[Movie Recommendation System](https://github.com/Swatii012/movie_recommendation_system)
-
-A recommendation engine that suggests movies based on user preferences.
-
----
-
 ### 🧩 Sudoku Hashing
 
 🔗 Repository:
