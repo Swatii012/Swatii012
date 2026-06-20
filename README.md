@@ -38,7 +38,7 @@ Learning through projects, exploring new technologies, and gaining experience on
 
 ## 💡 Featured Projects
 
-### 📱 QR Code Attendance Management System
+### 📱 QR Code Attendance Management System (Currently working)
 Final Year Project based on QR Code Generation and Scanning for Automated Attendance Tracking.
 
 ### 🏠 House Price Prediction
