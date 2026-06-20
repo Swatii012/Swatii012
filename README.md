@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hello, I'm Swati Jaiswal 🦋</h1>
 
 <h3 align="center">
