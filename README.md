@@ -1,26 +1,25 @@
-<h1 align="center">Hi 👋, I'm Swati Jaiswal</h1>
+<h1 align="center"> Hello, I'm Swati Jaiswal 🦋 </h1>
 
 <h3 align="center">
-BCS.IT Final Year Student | Python Developer | Data Science Enthusiast | Machine Learning Learner 🚀
+BCS.IT Student | Curious Mind | Lifelong Learner |
 </h3>
 
 <p align="center">
-Passionate about transforming ideas into real-world software solutions 💻
-</p>
+Learning through projects, exploring new technologies, and gaining experience one step at a time ✨.</p>
 
 ---
 
 ## 👩‍💻 About Me
 
 - 🎓 BCS.IT Final Year Student
-- 💻 Passionate about Software Development
+- 💻 Passionate about technologies
 - 📊 Interested in Data Science & Machine Learning
 - 🌱 Currently Learning Django, AI & Advanced Python
 - 🚀 Working on QR Code Attendance System (Final Year Project)
 
 ---
 
-## 🚀 Featured Projects
+## 💡 Featured Projects
 
 ### 📱 QR Code Attendance Management System
 Final Year Project based on QR Code Generation and Scanning for Automated Attendance Tracking.
@@ -48,7 +47,6 @@ Personal portfolio showcasing projects and skills.
 - Django
 - HTML
 - CSS
-- JavaScript
 - SQLite
 - Machine Learning
 - NumPy
