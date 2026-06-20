@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Swati Jaiswal 🦋</h1>
 
 <h3 align="center">
-🎓 BCS.IT Student | 💡 Curious Mind | 🌱 Lifelong Learner
+ BCS.IT Student |  Curious Mind |  Lifelong Learner
 </h3>
 
 <p align="center">
@@ -10,12 +10,12 @@ Learning through projects, exploring new technologies, and gaining experience on
 
 <p align="center">
 
-<a href="https://6a33bef4db78b918085fc52a--glistening-sprite-e48253.netlify.app/">
-<img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge" />
-</a>
-
 <a href="https://www.linkedin.com/in/swati-jaiswal-93b17825b/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://6a33bef4db78b918085fc52a--glistening-sprite-e48253.netlify.app/">
+<img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge" />
 </a>
 
 <a href="https://www.instagram.com/__swattii?igsh=NjV6OWdzYXBteWo5">
@@ -49,7 +49,7 @@ Machine Learning-based system for predicting house prices.
 ### 🧩 Sudoku Hashing
 🔗 https://6a33aaf42be1891cda8ff19d--remarkable-douhua-2e3360.netlify.app/
 
-Python project using hashing concepts to solve Sudoku efficiently.
+Python project that uses hashing to solve Sudoku efficiently.
 
 ### 🆘 QuickHelp-QR
 🔗 https://6a33b7868b355121edda5a6b--glistening-sprite-e48253.netlify.app/
