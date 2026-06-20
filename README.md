@@ -27,11 +27,7 @@ Turning data into meaningful insights 📊
 ## 👩‍💻 About Me
 
 - 🎓 Computer Science Student
-- 🐍 Python Enthusiast
 - 📊 Interested in Data Analytics & Machine Learning
-- 🏠 Built a House Price Prediction Project
-- 🎬 Developed a Movie Recommendation System
-- 🧩 Worked on Sudoku Hashing Project
 - 🌱 Currently Learning Data Science & AI
 - 🚀 Always exploring new technologies
 
@@ -44,7 +40,7 @@ Turning data into meaningful insights 📊
 🔗 Repository:
 [House Price Prediction](https://github.com/Swatii012/House_Price_Prediction)
 
-Machine Learning based system that predicts house prices using historical housing data.
+Machine Learning-based system that predicts house prices using historical housing data.
 
 ---
 
