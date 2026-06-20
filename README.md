@@ -1,11 +1,12 @@
+```md
 <h1 align="center">Hi 👋, I'm Swati Jaiswal</h1>
 
 <h3 align="center">
-Passionate about Data Science, Machine Learning and Python Development 🚀
+BCS.IT Final Year Student | Python Developer | Data Science Enthusiast | Machine Learning Learner 🚀
 </h3>
 
 <p align="center">
-Turning data into meaningful insights 📊
+Passionate about transforming ideas into real-world software solutions 💻
 </p>
 
 <p align="center">
@@ -26,19 +27,28 @@ Turning data into meaningful insights 📊
 
 ## 👩‍💻 About Me
 
-- 🎓 Computer Science Student
-- 📊 Interested in Data Analytics & Machine Learning
-- 🌱 Currently Learning Data Science & AI
-- 🚀 Always exploring new technologies
+- 🎓 BCS.IT Final Year Student
+- 💻 Passionate about Software Development and Problem Solving
+- 📊 Interested in Data Science, Data Analytics and Machine Learning
+- 🌱 Currently Learning Django, AI and Advanced Python
+- 🚀 Building Real-World Projects for Learning and Innovation
 
 ---
 
-## 👩‍💻 Creation
+## 🚀 Featured Projects
+
+### 📱 QR Code Attendance Management System (Final Year Project)
+
+A smart attendance management system that uses QR code generation and scanning to automate attendance tracking.
+
+**Tech Stack:** Python, Django, SQLite, HTML, CSS, JavaScript, QR Code Technology
+
+---
 
 ### 🏠 House Price Prediction
 
-🔗 Repository:
-[House Price Prediction](https://github.com/Swatii012/House_Price_Prediction)
+🔗 Repository:  
+https://github.com/Swatii012/House_Price_Prediction
 
 Machine Learning-based system that predicts house prices using historical housing data.
 
@@ -46,20 +56,59 @@ Machine Learning-based system that predicts house prices using historical housin
 
 ### 🧩 Sudoku Hashing
 
-🔗 Repository:
-[Sudoku Hashing](https://github.com/Swatii012/Sudoku-Hashing)
+🔗 Repository:  
+https://github.com/Swatii012/Sudoku-Hashing
 
 Python project using hashing concepts to solve Sudoku efficiently.
 
 ---
 
+### 🆘 QuickHelp-QR
+
+🔗 Repository:  
+https://github.com/Swatii012/QuickHelp-QR
+
+QR-based emergency information and assistance system.
+
+---
+
+### 🎂 Cakelicious Creations
+
+🔗 Repository:  
+https://github.com/Swatii012/Cakelicious-Creations
+
+Cake ordering and management project.
+
+---
+
+### 🌐 Portfolio Website
+
+🔗 Repository:  
+https://github.com/Swatii012/Portfolio
+
+Personal portfolio website showcasing projects, skills and achievements.
+
+---
+
 ## 💻 Tech Stack
 
-### Languages
+### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Data Science
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Web Development
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### Data Science & Machine Learning
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
@@ -68,6 +117,16 @@ Python project using hashing concepts to solve Sudoku efficiently.
 ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+---
+
+## 🎯 Current Goals
+
+- ✔ Complete Final Year Project Successfully
+- ✔ Improve Django Development Skills
+- ✔ Learn Advanced Machine Learning
+- ✔ Contribute to Open Source Projects
+- ✔ Start Career in Software Development and Data Science
 
 ---
 
@@ -96,3 +155,4 @@ Python project using hashing concepts to solve Sudoku efficiently.
 <p align="center">
 ✨ Thanks for visiting my profile ✨
 </p>
+```
